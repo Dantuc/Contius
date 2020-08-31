@@ -161,6 +161,7 @@ html {
                 max-width: 20%;
                 margin-top:100px;
                 margin-left: 150px;
+                min-width: 20%;
             }
             .black{
                 color: #353333;
